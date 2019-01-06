@@ -1,0 +1,41 @@
+{
+    "title": "Portfolio Website by Priyanshu Tiwari",
+    "name": "portfolio-website",
+    "version": "1.0.0",
+    "description": "A one page Portfolio website",
+    "keywords": [
+        "css",
+        "sass",
+        "html",
+        "responsive",
+        "theme",
+        "template",
+        "portfolio"
+    ],
+    "homepage": "",
+    "bugs": {
+        "url": "https://github.com/tpriyanshu90",
+        "email": "realtp9@gmail.com"
+    },
+    "license": "MIT",
+    "author": "Priyanshu Tiwari",
+    "contributors": [
+        "Priyanshu Tiwari"
+    ],
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "dependencies": {
+        "bootstrap": "4.0.0",
+        "jquery": "3.3.0"
+    },
+    "devDependencies": {
+        "browser-sync": "2.23.5",
+        "gulp": "^3.9.1",
+        "gulp-clean-css": "3.9.2",
+        "gulp-header": "2.0.1",
+        "gulp-rename": "^1.2.2",
+        "gulp-sass": "^3.1.0"
+    }
+}
